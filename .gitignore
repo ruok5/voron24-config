@@ -6,3 +6,8 @@ adxl_results/vibrations/*.tar.gz
 .DS_Store
 *.bkp
 *.backup
+
+# we don't want to add any automatically-created
+# backups, so let's not add any untracked *.cfg
+# files by default
+*.cfg
