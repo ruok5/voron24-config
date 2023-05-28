@@ -5,3 +5,4 @@ adxl_results/vibrations/*.tar.gz
 
 .DS_Store
 *.bkp
+*.backup
