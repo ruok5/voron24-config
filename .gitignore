@@ -12,3 +12,4 @@ KlipperScreen.conf
 # backups, so let's not add any untracked *.cfg
 # files by default
 *.cfg
+*.zip
